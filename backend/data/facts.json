@@ -1,0 +1,29 @@
+{
+    "full_name": "Javad Mollakazemi",
+    "name": "Javad",
+    "current_role": "Data Scientist and AI Engineer",
+    "location": "Boston, MA",
+    "email": "molakazemi.mj@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/javad-mollakazemi/",
+    "google_scholar": "https://scholar.google.com/citations?user=YCOEIAkAAAAJ&hl=en",
+    "specialties": [
+      "Data Science",
+      "AI Engineering",
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Natural Language Processing",
+      "Automation",
+      "Data Engineering",
+      "Data Analysis",
+      "Data Visualization"
+    ],
+    "years_experience": 12,
+    "education": [
+      {
+        "degree": "PhD",
+        "institution": "University of Kentucky",
+        "year": "2020"
+      }
+    ]
+  }
